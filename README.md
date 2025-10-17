@@ -16,7 +16,7 @@ Simple Rag project that takes pdfs or text as input  and responds to the user ba
  6. Run the command : `streamlit run streamlit_app.py` in the terminal
 
 
-#Tools used
+# Tools used
 
 1. Langchain
 2. Langgraph 
