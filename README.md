@@ -1,5 +1,5 @@
 # RAG_Project
-Simple Rag project that takes pdfs or text as input  and responds to the user based on the documents. If not found uses wikipedia.
+Simple Agentic Rag project that takes normals pdfs, scanned pdfs or text as input  and responds to the user based on the documents. If not found uses wikipedia.
 
 # Usage
  1. Clone the repository to the local.
